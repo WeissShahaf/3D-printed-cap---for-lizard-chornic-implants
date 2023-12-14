@@ -6,4 +6,4 @@ files can be opened in SOLIDWORKS software
 
 
 
-%![lizard implant](https://github.com/WeissShahaf/3D-printed-cap---for-lizard-chornic-implants/assets/45653608/f3168dea-6d9c-485c-b37c-2fefdb498e83)
+
